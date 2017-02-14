@@ -32,8 +32,8 @@ public class Prjava03medina17 extends Frame
         // "this" Frame fires WindowEvent its registered WindowEvent listener 
         // "this" Frame adds "this" object as a WindowEvent listener 
  
-      setTitle("prjava03medina17");  // "this" Frame sets title 
-      setSize(250, 100);        // "this" Frame sets initial size 
+      setTitle("nova finestra prjava03cognom17");
+      setSize(450, 100);
       setVisible(true);         // "this" Frame shows 
    } 
  
