@@ -1,8 +1,12 @@
 package prjava03medina17; 
 import java.awt.*;        // using AWT containers and components 
 import java.awt.event.*;  // using AWT events and listener interfaces 
+
 import java.sql.*;
 import java.io.*;
+
+import java.text.*;
+import java.net.*;
  
 // An AWT GUI program inherits the top-level container java.awt.Frame 
 public class Prjava03medina17 extends Frame 
